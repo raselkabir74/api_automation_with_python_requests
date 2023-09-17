@@ -1,0 +1,7 @@
+<Package tests>
+  <Module test_ad_placement_positions.py>
+    <Function test_ad_placement_position>
+  <Module test_ad_placement_types.py>
+    <Function test_ad_placement_position>
+  <Module test_age_groups.py>
+    <Function test_age_groups>

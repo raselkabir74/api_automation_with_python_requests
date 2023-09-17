@@ -1,0 +1,22 @@
+[credential]
+username = xxxx
+password = xxxx
+api-url = https://dsp-api-staging.eskimi.com/
+prod-api-url = https://dsp-api.eskimi.com/
+client-id = xxxx
+client-secret = xxxx
+
+[mysql_credentials]
+username = xxxx
+password = xxxx
+
+[mysql]
+host = localhost
+user = xxx
+pass = xxx
+ssh-user = xxx
+stage-port = 3306
+master-port = 3307
+
+[mysql-hosts]
+ssh-host = 34.76.253.234
